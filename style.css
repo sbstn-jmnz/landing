@@ -1,0 +1,177 @@
+body {
+
+	font-family: 'Roboto', sans-serif;
+	margin-left: 20px;
+
+}
+
+.bg2 {
+
+	position: relative;
+	background-image: url(images/bg.jpeg);
+	background-position: center;
+	height: 420px;
+	width: 100%;
+
+}
+
+	#latamlogo {
+
+		width: 200px;
+		position: absolute;
+		left: 20px;
+		top: 20px;
+	}
+
+	.navbar {
+
+		position: absolute;
+		right: 120px;
+		top: 20px;
+	}
+
+
+	ul {
+
+		list-style-type: none;
+		color: grey;
+	}
+
+	li {
+
+		float: left;
+		padding: 20px;
+	}
+
+	.central {
+
+		width: 540px;
+    	height: 350px;
+	    position: absolute;
+	    color: white;
+	    left: 350px;
+	    bottom: 250px;
+	    text-align: center;
+	}
+
+	#comienza {
+
+		line-height: 2;
+		letter-spacing: 2px;
+	}
+
+	#blue {
+
+
+		position: absolute;
+	    background-color: #008CBA;
+	    width: 120px;
+	    height: 20px;
+	    float: left;
+	    text-align: center;
+	    border-radius: 10px;
+	    padding: 10px;
+	    left: 100px;
+	    bottom: 70px;
+
+	}
+
+	#green {
+
+		position: absolute;
+	    background-color: #4CAF50;
+	    width: 120px;
+	    height: 20px;
+	    float: right;
+	    text-align: center;
+	    border-radius: 10px;
+	    padding: 10px;
+	    right: 100px;
+	    bottom: 70px;
+	}
+
+	#des1 {
+
+		position: absolute;
+		bottom: 10px;
+
+	}
+
+	.white {
+
+		position: relative;
+		text-align: center;
+		border: 1px solid grey;
+		margin: 0px;
+		height: 400px;
+		padding: 30px 100px 30px 100px;
+	}
+
+	#bootcamp {
+
+		letter-spacing: 2px;
+	}
+
+	#happy {
+
+		position: absolute;
+		display: block;
+		max-width: 70%;
+		max-height: 300px;
+		bottom: 0px;
+		left: 430px;
+	}
+
+	.grey {
+
+		background-color: #f3f3f3;
+		padding: 50px 100px 80px 100px;
+		text-align: center;
+		height: 300px;
+		box-sizing: border-box;
+	}
+
+	#blue2 {
+
+		background-color: #008CBA;
+		color: white;
+		width: 120px;
+		height: 20px;
+		padding: 10px;
+		border-radius: 10px;
+		float: right;
+		margin-right: 450px;
+	}
+
+	#vive {
+
+		clear: both
+	}
+
+	.footer {
+
+		height: 300px;
+		width: 100%;
+		padding: 50px 100px 80px 100px;
+		box-sizing: border-box;
+	}
+
+	#contacto {
+
+		width: 50%;
+		float: left;
+	}
+
+	#suscribete {
+
+		width: 50%;
+		float: left;
+	}
+
+	.negra {
+
+		background-color: #232323;
+		color: white;
+		padding: 10px 0px 10px 200px;
+		letter-spacing: 2px;
+	}
